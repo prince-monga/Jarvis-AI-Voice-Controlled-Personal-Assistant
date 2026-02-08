@@ -1037,8 +1037,9 @@ def main():
     app = JarvisGUI(jarvis)
     # start mainloop; wake-word runs on background threads
     app.mainloop()
-
+  
 
 if __name__ == '__main__':
     main()
 
+#Run this file and check 
