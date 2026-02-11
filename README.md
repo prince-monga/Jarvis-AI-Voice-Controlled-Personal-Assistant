@@ -114,7 +114,7 @@ To add GUI images in your repo:
 ## ✍️ Author
 
 **Prince Monga**
-AI & Frontend Developer
+AI & Frontend Developer | Full Stack Developer
 
 Website: [https://princemonga.site](https://princemonga.site)
 GitHub: [https://github.com/prince-monga](https://github.com/prince-monga)
