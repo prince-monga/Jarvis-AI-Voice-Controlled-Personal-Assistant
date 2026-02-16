@@ -107,7 +107,11 @@ To add GUI images in your repo:
 
 ---
 
+Project Status
 
+This project is actively under development.
+New features and improvements will be added continuously.
+Contributions, ideas, and feedback are always welcome 🚀
 
 ---
 
